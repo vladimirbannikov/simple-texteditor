@@ -1,6 +1,6 @@
 ## 
 Simple vim-like text editor with TUI. There are 4 modes - navigation, input, search and command mode.
-![Image alt]()
+![Image alt](https://github.com/vladimirbannikov/simple-texteditor/blob/main/modes.png)
 ### Commands
 #### NAVIGATION MODE
 * B - Enter text before the cursor
